@@ -1,7 +1,7 @@
 # CardioIA – Fase 6: Sistema Preditivo Multiagente
 
 **Integrantes:** Nome 1 (RM...), Nome 2 (RM...), ...
-**Vídeo demonstrativo:** <link YouTube não listado>
+**Vídeo demonstrativo:** <>
 
 ## Objetivo
 Prever picos de risco cardíaco (`pico_risco`) com ML sobre base sintética e integrar o modelo a agentes
